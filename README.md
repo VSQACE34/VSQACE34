@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VSQACE34
-- 👀 I’m interested in Quantum Computing and Quantum Information 
+- 👀 I’m interested in Quantum Machine Learning and Data Science  
 - 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on Quantum Computing and its applications 
+- 💞️ I’m looking to collaborate on Quantum Machine Learning and Data Science  
 - 📫 How to reach me ...
 
 <!---
